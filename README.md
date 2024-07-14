@@ -22,7 +22,7 @@ This script automates the account creation process for 1Password, including emai
 1. **Create a `.env` file:**
    * Create a file named `.env` in the same directory as your Python script.
    * Add the following environment variables to the `.env` file, replacing the placeholders with your actual values:
-     * `SIGNUP_URL`: The URL of the [Website Name] signup page.
+     * `SIGNUP_URL`: The URL of the 1Password signup page.
      * `USER_NAME`: The desired username for the new account.
      * `USER_EMAIL`: The email address to use for registration.
      * `USER_PASSWORD`: The password for the new account.
