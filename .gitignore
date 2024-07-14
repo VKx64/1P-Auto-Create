@@ -1,0 +1,4 @@
+venv/
+contents/
+boring_stuffs.log
+.env
